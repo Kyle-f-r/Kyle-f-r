@@ -15,7 +15,7 @@ online_tree.add(
     "[bold link=https://github.com/Kyle-f-r]ramos.io[/]              - [bright_black]resume and professional statement"
 )
 online_tree.add(
-    "[bold link=https://https://www.linkedin.com/in/kyle-ramos-339625126/]linkedin/kyle-ramos[/]   - [bright_black]personal linkedin page"
+    "[bold link=https://www.linkedin.com/in/kyle-ramos-339625126/]linkedin/kyle-ramos[/]   - [bright_black]personal linkedin page"
 )
 
 python_tree = tree.add(":seedling: Projects and Interests", guide_style="bright_black")

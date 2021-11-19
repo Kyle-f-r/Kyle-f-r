@@ -15,12 +15,10 @@ online_tree.add(
     "[bold link=https://www.linkedin.com/in/kyle-ramos-339625126/]linkedin/kyle-ramos[/]   - [bright_black]personal linkedin page"
 )
 
+
 python_tree = tree.add(":seedling: Projects and Interests", guide_style="bright_black")
 python_tree.add(
-    "[bold link=https://github.com/Kyle-f-r]condition-monitoring[/]  - [bright_black]anomoly detection for MOCVD reactors"
-)
-python_tree.add(
-    "[bold link=https://github.com/Kyle-f-r]emissions[/]             - [bright_black]studying time-series forecasting methods"
+    "[bold link=https://kyle-f-r.github.io/condition-monitoring/]condition-monitoring[/]  - [bright_black]anomoly detection for MOCVD reactors"
 )
 python_tree.add(
     "[bold link=https://github.com/Kyle-f-r]prodeus.app[/]           - [bright_black]user machine learning"
@@ -29,6 +27,16 @@ python_tree.add(
     "[bold link=https://github.com/Kyle-f-r]paintings.me[/]          - [bright_black]personal painting studies"
 )
 
+python_tree = tree.add(":microscope: Coursework", guide_style="bright_black")
+python_tree.add(
+    "[bold link=https://github.com/Kyle-f-r]time-series emissions[/] - [bright_black]studying time-series forecasting methods"
+)
+python_tree.add(
+    "[bold link=https://github.com/Kyle-f-r]deep learning[/]         - [bright_black]Recognizing the Street View Housing Number Digit using Neural Networks"
+)
+python_tree.add(
+    "[bold link=https://github.com/Kyle-f-r]recommendation sys[/]    - [bright_black]Building a recommendation system to recommend the best Amazon products"
+)
 
 console.print(tree)
 console.print("")

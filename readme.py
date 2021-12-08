@@ -9,28 +9,29 @@ tree = Tree(
 )
 online_tree = tree.add(":wave: hey, i'm kyle", guide_style="bright_black")
 online_tree.add(
-    "[bold link=https://github.com/Kyle-f-r]ramos.io[/]              - [bright_black]personal website"
+    "[bold link=https://github.com/Kyle-f-r]ramos.io[/]                    - [bright_black]personal website"
 )
 online_tree.add(
-    "[bold link=https://www.linkedin.com/in/kyle-ramos-339625126/]linkedin/kyle-ramos[/]   - [bright_black]personal linkedin page"
+    "[bold link=https://www.linkedin.com/in/kyle-ramos-339625126/]linkedin/kyle-ramos [/]        - [bright_black]personal linkedin page"
 )
 
 
 python_tree = tree.add(":seedling: Projects and Interests", guide_style="bright_black")
 python_tree.add(
-    "[bold link=https://github.com/Kyle-f-r/Conditional-Monitoring[/]  - [bright_black]anomoly detection for MOCVD reactors"
+    "[bold link=https://github.com/Kyle-f-r/Conditional-Monitoring]PCA and Mahalanobis Dist.[/]   - [bright_black]anomoly detection for MOCVD reactors"
 )
 python_tree.add(
-    "[bold link=https://github.com/Kyle-f-r]prodeus.app[/]           - [bright_black]user machine learning"
+    "[bold link=https://github.com/Kyle-f-r]prodeus.app [/]                - [bright_black]user machine learning"
 )
 
 python_tree = tree.add(":microscope: Coursework", guide_style="bright_black")
 python_tree.add(
-    "[bold link=https://github.com/Kyle-f-r/Time-Series-Carbon-Emission-Forecasting[/] - [bright_black]studying time-series forecasting methods"
+    "[bold link=https://github.com/Kyle-f-r/Time-Series-Carbon-Emission-Forecasting]Time-Series SARIMAX Model[/]   - [bright_black]studying time-series forecasting methods"
 )
 python_tree.add(
-    "[bold link=https://github.com/Kyle-f-r/Loan-Eligibility-Prediction[/]         - [bright_black]loan eligibility classifier"
+    "[bold link=https://github.com/Kyle-f-r/Loan-Eligibility-Predictions]Random Forest Classifier [/]   - [bright_black]loan eligibility classifier"
 )
+
 
 console.print(tree)
 console.print("")

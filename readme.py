@@ -26,7 +26,7 @@ python_tree.add(
 
 python_tree = tree.add(":microscope: Coursework", guide_style="bright_black")
 python_tree.add(
-    "[bold link=https://github.com/Kyle-f-r/Time-Series-Carbon-Emission-Forecasting]Time-Series SARIMAX Model[/]   - [bright_black]studying time-series forecasting methods"
+    "[bold link=https://github.com/Kyle-f-r/Time-Series-Carbon-Emission-Forecasting]Time-Series SARIMAX Model[/]   - [bright_black]Forcasting US CO2 Emissions"
 )
 python_tree.add(
     "[bold link=https://github.com/Kyle-f-r/Loan-Eligibility-Prediction]Random Forest Classifier [/]   - [bright_black]loan eligibility classifier"

@@ -9,7 +9,7 @@ tree = Tree(
 )
 online_tree = tree.add(":wave: hey, i'm kyle", guide_style="bright_black")
 online_tree.add(
-    "[bold link=https://github.com/Kyle-f-r]ramos.io[/]                    - [bright_black]personal website"
+    "[bold link=https://kyleramosdesign.com]kyleramosdesign.com[/]         - [bright_black]personal website"
 )
 online_tree.add(
     "[bold link=https://www.linkedin.com/in/kyle-ramos-339625126/]linkedin/kyle-ramos [/]        - [bright_black]personal linkedin page"
@@ -21,7 +21,7 @@ python_tree.add(
     "[bold link=https://github.com/Kyle-f-r/Conditional-Monitoring]PCA and Mahalanobis Dist.[/]   - [bright_black]anomoly detection for MOCVD reactors"
 )
 python_tree.add(
-    "[bold link=https://github.com/Kyle-f-r]prodeus.app [/]                - [bright_black]user machine learning"
+    "[bold link=https://www.kyleramosdesign.com/ideo-nike]Nike Grind Challenge[/]        - [bright_black]sustainable bike lane divider"
 )
 
 python_tree = tree.add(":microscope: Coursework", guide_style="bright_black")
